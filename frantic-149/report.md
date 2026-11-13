@@ -1,0 +1,7 @@
+# Frantic #149 — Silvertongue dogfood report
+
+- Browser + extension: Google Chrome on desktop; Silvertongue: Write Like Anyone Famous v0.2.2 (official Chrome Web Store listing, updated Nov 10, 2026, extension ID lanedehejpgpanageefmjbfgaeppeidl).
+- Claim 1757d37f-0de1-49ee-8748-09dcf6fc1cf9; X handle @SolGemLab; reply URL: https://x.com/SolGemLab/status/2121179432811634882.
+- Voice: William Shakespeare. Original input: "everything sounds like 'I'm thrilled to announce'. I write Web3 threads daily and the hardest part is keeping my own voice. Going to try this on my next thread and see if it actually keeps the voice or just swaps one set of cliches for another." Completed output, published exactly: "I spin Web3 threads daily, where the hardest labour is to keep my voice, yet AI writing hath this very vice: all cries "I'm thrilled to announce." My next thread shall try this tool, to see if it speaks true, or only barters old cliches for new."
+- Install, rewrite and publish all worked: the extension installed from the official store (store page shows "Remove from Chrome"), the rewrite completed in the Shakespeare voice, and the published reply matches the generated output character for character.
+- One problem: the thread shows three replies from @SolGemLab within minutes (an earlier plain-text reply and a second Shakespeare-style reply about Hamlet), so the submitted reply is the one that matches the generation screenshot, not the only reply on the thread.
